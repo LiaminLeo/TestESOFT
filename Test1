@@ -1,0 +1,7 @@
+<div id="house">
+  <div id="pipe"></div>
+  <div id="left-roof"></div>
+  <div id="right-roof"></div>
+  <div id="loft"></div>
+  <div id="floor"></div>
+</div>
